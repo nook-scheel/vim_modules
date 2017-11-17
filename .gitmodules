@@ -1,0 +1,36 @@
+[submodule "pack/shapeshed/start/badwolf"]
+	path = pack/shapeshed/start/badwolf
+	url = git@github.com:sjl/badwolf.git
+[submodule "pack/shapeshed/start/ctrlp.vim"]
+	path = pack/shapeshed/start/ctrlp.vim
+	url = git@github.com:ctrlpvim/ctrlp.vim.git
+[submodule "pack/shapeshed/start/nerdcommenter"]
+	path = pack/shapeshed/start/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "pack/shapeshed/start/nerdtree"]
+	path = pack/shapeshed/start/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "pack/shapeshed/start/syntastic"]
+	path = pack/shapeshed/start/syntastic
+	url = git@github.com:scrooloose/syntastic.git
+[submodule "pack/shapeshed/start/vim-airline"]
+	path = pack/shapeshed/start/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "pack/shapeshed/start/vim-es6"]
+	path = pack/shapeshed/start/vim-es6
+	url = git@github.com:isRuslan/vim-es6.git
+[submodule "pack/shapeshed/start/vim-jsx"]
+	path = pack/shapeshed/start/vim-jsx
+	url = git@github.com:mxw/vim-jsx.git
+[submodule "pack/shapeshed/start/vim-multiple-cursors"]
+	path = pack/shapeshed/start/vim-multiple-cursors
+	url = git@github.com:terryma/vim-multiple-cursors.git
+[submodule "pack/shapeshed/start/vim-nodejs-errorformat"]
+	path = pack/shapeshed/start/vim-nodejs-errorformat
+	url = git@github.com:felixge/vim-nodejs-errorformat.git
+[submodule "pack/shapeshed/start/vim-pug"]
+	path = pack/shapeshed/start/vim-pug
+	url = git@github.com:digitaltoad/vim-pug.git
+[submodule "pack/shapeshed/start/vim-spec"]
+	path = pack/shapeshed/start/vim-spec
+	url = git@github.com:geekjuice/vim-spec.git
